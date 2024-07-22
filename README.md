@@ -90,7 +90,7 @@ My Plants is a free and open source mobile app that helps to manage watering of 
    git clone https://github.com/benmotyka/my-plants_app.git
    cd my-plants_app/
    ```
-2. Install NPM packages
+2. Install NPM packages  
    ```sh
    npm install
    ```
