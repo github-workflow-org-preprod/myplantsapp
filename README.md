@@ -111,7 +111,6 @@ My Plants is a free and open source mobile app that helps to manage watering of 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Deployment    
 
 1. Add `google-services.json` file to `keys/`
 2. Convert key to base64-encoded string: 
